@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/utils_test.dir/__/src/main.cpp.o  -o ../../bin/utils_test -lcppunit 

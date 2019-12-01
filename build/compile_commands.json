@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/Phantasy/Documents/i481response/build",
+  "command": "/usr/bin/g++  -DDEBUG -I/usr/local/Cellar/cppunit/include   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/utils_test.dir/src/checkrequest.cpp.o -c /Users/Phantasy/Documents/i481response/src/checkrequest.cpp",
+  "file": "/Users/Phantasy/Documents/i481response/src/checkrequest.cpp"
+},
+{
+  "directory": "/Users/Phantasy/Documents/i481response/build",
+  "command": "/usr/bin/g++  -DDEBUG -I/usr/local/Cellar/cppunit/include   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/utils_test.dir/src/checkrequesttest.cpp.o -c /Users/Phantasy/Documents/i481response/src/checkrequesttest.cpp",
+  "file": "/Users/Phantasy/Documents/i481response/src/checkrequesttest.cpp"
+},
+{
+  "directory": "/Users/Phantasy/Documents/i481response/build",
+  "command": "/usr/bin/g++  -DDEBUG -I/usr/local/Cellar/cppunit/include   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/utils_test.dir/src/getvalue.cpp.o -c /Users/Phantasy/Documents/i481response/src/getvalue.cpp",
+  "file": "/Users/Phantasy/Documents/i481response/src/getvalue.cpp"
+},
+{
+  "directory": "/Users/Phantasy/Documents/i481response/build",
+  "command": "/usr/bin/g++  -DDEBUG -I/usr/local/Cellar/cppunit/include   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/utils_test.dir/src/getvaluetest.cpp.o -c /Users/Phantasy/Documents/i481response/src/getvaluetest.cpp",
+  "file": "/Users/Phantasy/Documents/i481response/src/getvaluetest.cpp"
+},
+{
+  "directory": "/Users/Phantasy/Documents/i481response/build",
+  "command": "/usr/bin/g++  -DDEBUG -I/usr/local/Cellar/cppunit/include   -std=c++11  -O0 -Wall -g2 -ggdb -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/utils_test.dir/src/main.cpp.o -c /Users/Phantasy/Documents/i481response/src/main.cpp",
+  "file": "/Users/Phantasy/Documents/i481response/src/main.cpp"
+}
+]
